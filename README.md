@@ -1,2 +1,1 @@
-# rsschool-cv
-Task for CV
+https://github.com/samgamjy/rsschool-cv
