@@ -4,6 +4,7 @@
 -------------------------|---
 Mobile phone | **+375291111111**
 E-mail | **samgamjy@mail.ru**
+Discord | samgamjy
 
  Education | .
 -----------|---
