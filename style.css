@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+    width: auto;
+}
+.section {
+    align: center;
+}
+.main {
+    margin: auto;
+    width: 50%;
+    align-content: center;
+    font-size: large;
+    display: flex;
+}
+.cv-part {
+    border-top: solid grey 1px;
+}
+.code-example {
+    background-color: #979899; 
+}
+.footer {
+   text-align: left; 
+}
+.avatar {
+    width: 30%;
+    margin: 0;
+}
+.div {
+    align-content:center;
+}
+.ul {
+    font-weight: normal;
+}
